@@ -3,5 +3,7 @@
     "companyName":"softtek",
     "appName":"test1",
     "entityName":"student",
-    "domainName":"softtek"
+    "domainName":"softtek",
+    "javaVersion":"11"
+    
 }
