@@ -12,7 +12,7 @@
 	<artifactId>{{cookiecutter.projectname}}SpringBootCRUDProj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>{{cookiecutter.entity_name}}SpringBootCRUDProj</name>
+	<name>{{cookiecutter.entityName}}SpringBootCRUDProj</name>
 	<description>Demo project for Spring Boot Crud Operation</description>
 	<properties>
 		<java.version>{{cookiecutter.javaVersion}}</java.version>
